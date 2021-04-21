@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="current_city">Baku, AZ</string>
+
+    <string name="day1">Sunday</string>
+    <string name="day2">Monday</string>
+    <string name="day3">Tuesday</string>
+    <string name="day5">Thursday</string>
+    <string name="day4">Wednesday</string>
+
+    <string name="weather_max1">+30°C</string>
+    <string name="weather_max2">+31°C</string>
+    <string name="weather_max3">+32°C</string>
+    <string name="weather_max4">+33°C</string>
+    <string name="weather_max5">+34°C</string>
+
+    <string name="weather_min1">+10°C</string>
+    <string name="weather_min2">+11°C</string>
+    <string name="weather_min3">+12°C</string>
+    <string name="weather_min4">+13°C</string>
+    <string name="weather_min5">+14°C</string>
+
+    <string name="weather1">+40°C</string>
+    <string name="weather2">+41°C</string>
+    <string name="weather3">+42°C</string>
+    <string name="weather4">+43°C</string>
+    <string name="weather5">+44°C</string>
+    <string name="weather6">+45°C</string>
+    <string name="weather7">+46°C</string>
+    <string name="weather8">+47°C</string>
+    <string name="weather9">+48°C</string>
+
+    <string name="time1">00:00</string>
+    <string name="time2">03:00</string>
+    <string name="time3">06:00</string>
+    <string name="time4">09:00</string>
+    <string name="time5">12:00</string>
+    <string name="time6">15:00</string>
+    <string name="time7">18:00</string>
+    <string name="time8">21:00</string>
+    <string name="time9">00:00</string>
+</resources>

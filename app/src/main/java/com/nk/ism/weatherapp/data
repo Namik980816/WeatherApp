@@ -1,0 +1,7 @@
+API key: f85b5c06b7359cdd1aa27353796fa041
+
+Current Weather
+https://api.openweathermap.org/data/2.5/weather?q=Baku&appid=f85b5c06b7359cdd1aa27353796fa041&units=metric
+
+Forecast 5 days
+https://api.openweathermap.org/data/2.5/forecast?q=Baku&appid=f85b5c06b7359cdd1aa27353796fa041&units=metric
